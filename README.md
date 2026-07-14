@@ -54,3 +54,4 @@ SEC determination algorithm. Further, the following should be provied in the alg
 [a] The SEC bounds (upper and lower) of each phase in the material 
 [b] The volume fraction of each phase.
 [b] For HCP crytal, the c/a ratio.
+# Single-Elastic-Constant--SEC--Determination
